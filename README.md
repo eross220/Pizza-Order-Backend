@@ -24,6 +24,7 @@ source venv/bin/activate # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### Migrate the database
 ```bash
 alembic upgrade head
 ```
