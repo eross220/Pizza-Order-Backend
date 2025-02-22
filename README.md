@@ -2,13 +2,6 @@
 
 This is the backend for the Pizza Ordering System project, a FastAPI-based application designed to handle pizza orders, customization, and delivery management.
 
-## Table of Contents
-- [Project Setup](#project-setup)
-- [Running the Application Locally](#running-the-application-locally)
-- [Database Setup](#database-setup)
-- [Testing](#testing)
-- [Environment Variables](#environment-variables)
-
 ## Project Setup
 
 ### Prerequisites
@@ -19,7 +12,7 @@ This is the backend for the Pizza Ordering System project, a FastAPI-based appli
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/pizza-ordering-system-backend.git
+git clone https://github.com/eross220/Pizza-Order-Backend.git
 cd pizza-ordering-system-backend
 ```
 
