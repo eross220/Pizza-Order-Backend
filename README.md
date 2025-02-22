@@ -13,7 +13,7 @@ This is the backend for the Pizza Ordering System project, a FastAPI-based appli
 
 ```bash
 git clone https://github.com/eross220/Pizza-Order-Backend.git
-cd pizza-ordering-system-backend
+cd Pizza-Order-Backend
 ```
 
 ### Install dependencies
